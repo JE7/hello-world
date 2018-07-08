@@ -1,3 +1,3 @@
 # hello-world
-day1
+day
 first branch test with iced coke.
